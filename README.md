@@ -1,9 +1,6 @@
-# Assignment Description
+# Epidemic Day Board Game
 
-written by 
+written by AL '23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Epidemic-Day-AL)](https://repl.it/github/athenian-ct-projects/Epidemic-Day-AL)
+* This is a board game for Epidemic Day. Don't forget the game board!
